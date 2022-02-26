@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scots constancy. Or, An answer to Cleveland's Scots apostacy.</title>
+            <author>Bostock, Robert, d. 1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77112</idno>
+            <idno type="STC">Wing B3796</idno>
+            <idno type="STC">Thomason E383_9</idno>
+            <idno type="STC">ESTC R201431</idno>
+            <idno type="EEBO-CITATION">99861942</idno>
+            <idno type="PROQUEST">99861942</idno>
+            <idno type="VID">114088</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77112)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114088)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E383[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scots constancy. Or, An answer to Cleveland's Scots apostacy.</title>
+                  <author>Bostock, Robert, d. 1656.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Robert Bostock by Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>In verse.</note>
+                  <note>Annotation on Thomason copy: on page 1: "Aprill 1st 1647"; "Written by Robin Bostock Stationer"; page 2, line 26: 'his' crossed out and replaced by to "tis"; page 4, line 20, 'pretend' crossed out and replaced by "speak faire".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cleveland, John, 1613-1658. --  Scots apostacy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb n="1" facs="tcp:114088:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>The SCOTS CONSTANCY. OR, An Anſwer to CLEVELAND'S <hi>Scots Apoſtacy. <date>
+                     <add>Aprill <gap reason="illegible" extent="2+ letters">
+                           <desc>••…</desc>
+                        </gap> 1647.</add>
+                  </date>
+               </hi>
+            </head>
+            <byline>
+               <add>written by Robin <gap reason="illegible" extent="5+ letters">
+                     <desc>•••••…</desc>
+                  </gap>k Stationer</add>
+            </byline>
+            <l>
+               <seg rend="decorInit">I</seg>S <hi>Cleveland</hi> new in print? Is this the fume</l>
+            <l>Of his laſt cup of Sack? the ſtrong perfume</l>
+            <l>Diſtill'd from his noddle? What, to ſpue</l>
+            <l>Such vile prodigious curſes? nothing new?</l>
+            <l>Poore Crumms of Comfort to a dying cauſe</l>
+            <l>Of his malignant party; whoſe applauſe</l>
+            <l>The meager ſtarveling feeds on; 'tis a feaſt.</l>
+            <l>At ſome malignant Tavern: ſcraps at leaſt</l>
+            <l>Which noſeleſſe <hi>Davenant</hi> ſends: theſe cram his muſe</l>
+            <l>With ſtrong bum-baſted raptures, to abuſe</l>
+            <l>The poore compounders: yet it will not fall</l>
+            <l>One penny of their rate at Goldſmiths Hall.</l>
+            <l>No paper-kites from York, no proclamations</l>
+            <l>To undeceave the people, no obſervations</l>
+            <l>Upon the Kings return; no pregnancy</l>
+            <l>Of new invention: all dull poetry.</l>
+            <l>Where's the Court paraſites, to reſolve the caſe</l>
+            <l>Of none-reſiſtance now? what is their place</l>
+            <l>Empty at court? where's <hi>Hamond, Fer<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> and he</l>
+            <l>Pretends himſelf Biſhop of Oſſory?</l>
+            <l>All ſilent? ſpeechleſſe? dum as <hi>Aulicus?</hi>
+            </l>
+            <l>What's <hi>Heylin's</hi> table turn'd? how comes it thus?</l>
+            <l>No hope, no comfort for malignancy,</l>
+            <l>Except to joyne with Independancy.</l>
+            <l>Cajole the Scots, the Citty: why ſo dull?</l>
+            <l>No fine deſignes abroach? come, one more pull:</l>
+            <l>
+               <pb n="2" facs="tcp:114088:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 5 -->
+Where's <hi>Digby?</hi> in a valt? what, no new plot?</l>
+            <l>Is this the laſt, to rayle and curſe the Scot?</l>
+            <l>Send to <hi>Kilketto</hi> poſt: what, cannot hee</l>
+            <l>Diſturb that Kingdome, raiſe more mutiny?</l>
+            <l>What's <hi>France</hi> transform'd a ſtone, and will not ſtirr</l>
+            <l>To help your gaſping cauſe? Thou bauling curre,</l>
+            <l>Bark more inceſſantly: let <hi>Denmark</hi> hear;</l>
+            <l>He ſoundly ſnorteth: what will none appeare?</l>
+            <l>Where are the Rebells? the Ceſſation ſure</l>
+            <l>Commands them from their boggs, now 'tis ſecure,</l>
+            <l>To help their Popiſh Queen; or elſe to ſee</l>
+            <l>Her and her fav'rite in a Monaſt'ry.</l>
+            <l>Are your deſignes abortive? is the Scot</l>
+            <l>More faithfull to the King? and is the plot</l>
+            <l>Become apparent now? doth <hi>Ormond</hi> hate</l>
+            <l>Your baſe deſignes? doth he congratulate</l>
+            <l>The good ſucceſſe of this bleſt Parliament?</l>
+            <l>Forbeare your curſed language; come, repent:</l>
+            <l>All things miſcarry 'mongſt you; and we ſee</l>
+            <l>The vip'rous venom of malignancy.</l>
+            <l>This makes you mad, and ſome; obſerve, the Scot</l>
+            <l>Breakes not his Covenant; 's conſtant; Spoyles your plot.</l>
+            <l>And had the King kept faith, and not the Queen</l>
+            <l>Been ſo predominant, we ſhould have ſeen</l>
+            <l>His bleſſed reconcilement with the State:</l>
+            <l>But ſure his CHARLES moſt unhapy ſate.</l>
+            <l>How dar'ſt thou (Sycophant) abuſe the King?</l>
+            <l>Is he not juſt to puniſh? ſuch a thing</l>
+            <l>Of moſt prophaned curſing, cannot bee</l>
+            <l>Indur'd by any who love piety.</l>
+            <l>Should wee retort thy curſes, there would be</l>
+            <l>A Vollume vented 'gainſt malignancy.</l>
+            <l>But Silence is ſufficient: 'tis enuffe</l>
+            <l>T' extinguiſh thy abhorred ſtinking ſnuffe.</l>
+            <l>I tell thee <hi>Cleveland</hi> how to get ſome praiſe;</l>
+            <l>Add but thoſe curſes to the laſt new playes:</l>
+            <l>The Stationer, no doubts will give thee pence,</l>
+            <l>Joyne to the laſt of 's verſes thy nonſence,</l>
+            <l>
+               <pb n="3" facs="tcp:114088:2"/>
+               <!-- PDF PAGE 5 -->
+Jeare not the proffer; for thy freinds now hate</l>
+            <l>Thy profane curſes, and abominate:</l>
+            <l>Thy hatefull title doth more fit become</l>
+            <l>Thy ſweet companions and freinds at <hi>Rome.</hi>
+            </l>
+            <l>It is not long agoe ſince wee did ſee</l>
+            <l>Thy famous <hi>Wentworth</hi>'s grand Apoſtacy.</l>
+            <l>The King s' in ſafety (greeve not) 'tis with thoſe</l>
+            <l>Who will perſwade him never to oppoſe</l>
+            <l>The good advice of <hi>Scotland:</hi> not like <hi>Laud,</hi>
+            </l>
+            <l>Who bid him break his faith, and then applaud</l>
+            <l>That moſt unkingly breach, unnaturall warre</l>
+            <l>With his beſt ſubjects: no, King <hi>Charles</hi> is farre</l>
+            <l>From any more ſuch counſell: he doth ſee</l>
+            <l>The fatall conſequence of all flatt'ry.</l>
+            <l>What foule mouthd language thou giveſt that nation</l>
+            <l>So ancient; with whom a combination</l>
+            <l>
+               <hi>France</hi> did ſolicit, <hi>England</hi> now doth twine,</l>
+            <l>And is compleated in that royall line.</l>
+            <l>But what of <hi>Londons</hi> ſpeech? 'tis writ in Gold;</l>
+            <l>With admiration honeſt men behold</l>
+            <l>His Loyaly: what did the King declare</l>
+            <l>Amongſt the Scots? what proteſtations are</l>
+            <l>D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vulged to the world by him? yet he</l>
+            <l>Muſt be excuſed for infirmity.</l>
+            <l>But let the noble <hi>Londons</hi> ſpeech be ſcann'd</l>
+            <l>By moſt, nay all malignants in the land;</l>
+            <l>The proper genuine ſence of all will be,</l>
+            <l>We will maintaine the King, not Tyranny.</l>
+            <l>And here of purpoſe thou forgetſt the place</l>
+            <l>Where <hi>London,</hi> was confin'd; but no diſgrace</l>
+            <l>To <hi>Londons</hi> Innocency: we did ſee</l>
+            <l>Some ſtepps then neere to Turkiſh ſlavery.</l>
+            <l>That good advice which pious <hi>Henderſon</hi>
+            </l>
+            <l>Gave to the King, thou hat'ſt to mention:</l>
+            <l>Or that thy flattering Clergy did adore</l>
+            <l>The Scottiſh nation but a while before:</l>
+            <l>O how their papers then did make you glad?</l>
+            <l>How jocund? but of late exceeding ſad.</l>
+            <l>
+               <pb n="4" facs="tcp:114088:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->
+Did you expect a change? And now to ſee</l>
+            <l>The City right, and the Scots conſtancy,</l>
+            <l>O how it frets malignants! they had hope</l>
+            <l>By our diſſentions to have taken ſcope</l>
+            <l>To worke ſome new deſignes; malignancy</l>
+            <l>The brat of <hi>Machavell,</hi> Independency,</l>
+            <l>His Jeſuited brother; and thoſe two</l>
+            <l>Are acting miſchiefe, hopeing to undoe</l>
+            <l>Two ancient Kingdomes, that they might be free</l>
+            <l>Of Presbyterian and of Monarchy.</l>
+            <l>But wee have hopes 'tis far from the intent</l>
+            <l>Of the Scots nation, or our Parliament.</l>
+            <l>What ſixty Kings were murder'd by the Scots?</l>
+            <l>'Tis but a fable: thrice as many plots</l>
+            <l>Have acted been of late, to overthrow</l>
+            <l>This rich and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>amous City, and to blow</l>
+            <l>Three Kingdomes into atomes; by ſuch men</l>
+            <l>Who meerely vapour, curſe and rayle: but then</l>
+            <l>We finde them moſt unnaturall not to ſpare</l>
+            <l>The eſſence of a Parliament: pretend <add>
+                  <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> faire<g ref="char:punc">▪</g>
+               </add>
+            </l>
+            <l>Great faith and Loyalty; a fained thing</l>
+            <l>To gaine a party, and abuſe a King.</l>
+            <l>That hardy nation hath been ever free.</l>
+            <l>And ſcorn'd the bondage of baſe ſlavery.</l>
+            <l>Read but <hi>Thuanus</hi> an Hiſtorian</l>
+            <l>Who writes impartially; read <hi>Buchanan</hi>
+            </l>
+            <l>King <hi>James</hi> his Tutor, one who did not feare</l>
+            <l>The frownes of Kings; was bold, and durſt appeare</l>
+            <l>I'th cauſe of truth in ſpite of oppoſition:</l>
+            <l>There we may read the freedome of that nation,</l>
+            <l>Belov'd of good men; for their Conſtancy</l>
+            <l>Recorded is to all poſterity.</l>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
